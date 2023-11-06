@@ -1,5 +1,6 @@
 
 # Talk-A-Tive
+visit the app here: https://chit-chat-mern-vo4h.onrender.com/
 
 Talk-a-tive is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
@@ -30,7 +31,6 @@ Start the server
 Start the Client
 
 ```bash
-  //open now terminal
   cd frontend
   npm start
 ```
